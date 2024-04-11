@@ -17,11 +17,11 @@ p{
 }
 
 #mainbody{
-    background-image: url(_try.jpg);
+    background-image: url(try.jpg);
 }
 
 body{
-    background-image: url(_cardbg.jpg);
+    background-image: url(cardbg.jpg);
 }
 
 #product-menu{
